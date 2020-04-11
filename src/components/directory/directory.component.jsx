@@ -11,7 +11,7 @@ class Directory extends React.Component{
             sections:
              [
                 {
-                  title: 'accessories',
+                  title: 'hats',
                   imageUrl: 'https://i.ibb.co/cvpntL1/hats.png',
                   id: 1,
                   linkUrl: 'shop/hats'
